@@ -5,5 +5,5 @@
 ```py
 from ruwordsgenereator import generate_word
 
-print(*generate_word([5,6,7]))
+print(generate_word(5)) 
 ```
